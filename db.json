@@ -1,0 +1,24 @@
+{
+  "enquiry": [
+    {
+      "firstName": "test ",
+      "lastName": "user",
+      "email": "user@gmail.com",
+      "mobile": "xxxxx",
+      "weight": 70,
+      "height": 1.8,
+      "bmi": "21.60",
+      "bmiResult": "Normal weight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Fitness",
+        "Strength"
+      ],
+      "haveGymbefore": "Yes",
+      "enquiryDate": "2023-05-07T18:30:00.000Z",
+      "id": 1
+    }
+  ]
+}
